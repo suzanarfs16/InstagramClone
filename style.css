@@ -78,15 +78,20 @@ body {
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
+    margin-top: 1rem;
 }
 
 .instagram-logout {
-    color: #009596;
+    color: #0095f6;
     margin-top: 1rem;
 }
 
 .not-account {
     color: rgb(160,160,160);
+}
+
+.link-blue {
+    color: #0095f6;
 }
 
 .get-the-app {
@@ -95,7 +100,7 @@ body {
     align-items: center;
     justify-content: center;
     width: 100%;
-    padding: 1,3rem 0;
+    padding: 1.3rem 0;
 }
 
 .download {
